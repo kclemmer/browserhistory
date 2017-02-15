@@ -14,3 +14,25 @@ img{
 }
 
 /* 6m 20.9s */
+
+#history{
+  display:flex;
+}
+
+#history div{
+  flex:1;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#nav ul{
+  list-style-type: none;
+}
+
+#nav li{
+  display: inLine;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* E32 13m 11.3s */
