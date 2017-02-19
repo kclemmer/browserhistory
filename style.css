@@ -1,38 +1,3 @@
 body{
-  font-family: 'Open Sans', SansSerif;
-  color: darkblue;
-  margin: 10px 50px 10px 50px;
-  background: ivory;
+  margin-top: 50px;
 }
-
-h1 h2{
-  font-family: 'Oswald', SansSerif;
-}
-
-img{
-  float: left;
-}
-
-/* 6m 20.9s */
-
-#history{
-  display:flex;
-}
-
-#history div{
-  flex:1;
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
-#nav ul{
-  list-style-type: none;
-}
-
-#nav li{
-  display: inLine;
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
-/* E32 13m 11.3s */
